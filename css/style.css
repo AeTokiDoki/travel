@@ -6,8 +6,9 @@
 	src: url("../fonts/ArialMT-Regular.ttf") format("woff2");
 }
 body {
-	padding: 30px 30px 30px 30px;
 	background: url("../img/Ellipse_1_copy.svg") no-repeat, url("../img/Layer_0.png") no-repeat;
+	width: 1440px;
+	height: 1700px;
 }
 .main {
 }
@@ -30,5 +31,29 @@ h1 {
 	max-width: 800px;
 }
 .image {
-	background: url("../img/Layer_1.svg") no-repeat;
+	background: url("../img/light-man_copy.jpg") no-repeat;
+
+	border: 1px solid black;
+	width: 821px;
+	height: 541px;
+	margin-left: 300px;
+	max-width: 821px;
+}
+.block_1 {
+	opacity: 0.8;
+	color: #273d46;
+	font-size: 24px;
+	text-align: left;
+	margin: 50px 330px 50px;
+	padding: 20px 20px 20px 20px;
+	line-height: 40px;
+}
+.block_2 {
+	opacity: 0.8;
+	color: #273d46;
+	font-size: 24px;
+	text-align: left;
+	margin: 50px 330px 50px;
+	padding: 20px 20px 20px 20px;
+	line-height: 40px;
 }
